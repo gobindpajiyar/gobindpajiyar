@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gobind Pajiyar
-Co- fonder of Griham.
+ fonder of Griham.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App Devlopment
